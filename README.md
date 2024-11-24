@@ -11,7 +11,7 @@
   <a href="#个人博客"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog-red.svg" alt="投稿"></a>
 <h2 align="center">The more effort，the more lucky</h2>
 </p>
-<a href="https://blog.csdn.net/qq_43270074"><h3 align="center">我的CSDN博客</h3></a>
+<a href="https://blog.csdn.net/qq_43270074"><h3 align="center">我的CSDN博客1</h3></a>
 
 <p align="center">
 <img src="https://cdn.tobebetterjavaer.com/stutymore/20240506225120.png"/>
